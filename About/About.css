@@ -1,0 +1,34 @@
+#about {
+  padding: 40px 20px;
+  background-color: #ffffff;
+  color: #333;
+  text-align: left;
+}
+
+#about h1 {
+  font-size: 40px;
+  font-style: serif;
+  margin-bottom: 15px;
+}
+
+#about h2 {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+#about ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+#about img {
+  display: block;
+  margin: 100px auto;
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+#imgabt{
+  width: 50%;
+  height: 700px;
+}

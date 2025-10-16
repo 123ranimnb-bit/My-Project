@@ -1,0 +1,48 @@
+#contact {
+  padding: 40px 20px;
+  background-color: #f8f8f8;
+  color: #333;
+  text-align: center;
+}
+
+#contact h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+/* Form Table */
+#contact table {
+  margin: 0 auto;
+  width: 70%;
+  border-collapse: separate;
+  border-spacing: 10px 15px;
+}
+
+#contact td {
+  text-align: left;
+}
+
+#contact input, #contact textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#contact textarea {
+  resize: vertical;
+  height: 100px;
+}
+
+#contact button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#contact button:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,37 @@
+HTML CSSResult Skip Results Iframe
+#services {
+  padding: 40px 20px;
+  background-color: #f4f4f4;
+  color: #333;
+  text-align: center;
+}
+
+#services h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+/* Table Styling */
+#services table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+#services th, #services td {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+#services th {
+  background-color: #BCB88A;
+  color: white;
+}
+
+#services tr:hover {
+  background-color: #f1f1f1;
+}
